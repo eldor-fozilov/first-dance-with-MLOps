@@ -1,6 +1,6 @@
 # first-dance-with-MLOps
 
-I am pretty well aware of the mathematics & intuition behind many machine learning algorithms and I and also quite good at building / implementing them to solve real world problems. However, I always knew that building ML models is only a small part of the whole ML system (as you can see in the image below). 
+I am pretty well aware of the mathematics & intuition behind many machine learning algorithms and I also became quite good at building / implementing them to solve real world problems. However, I always knew that building ML models is only a small part of the whole ML system (as you can see in the image below). 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/16538186/74599412-be9d1880-50c4-11ea-919b-8d0971757405.png"/>
